@@ -87,7 +87,7 @@ Make sure you have these settings in your vimrc file:
 ```vim
 set nocompatible
 filetype plugin on
-syntax on
+syntax enable
 ```
 
 Without them, VimWiki will not work properly.
